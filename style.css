@@ -44,20 +44,10 @@ body {
 }
 
 .time-segment:hover {
-  transform: scale(1.05);
+  transform: scale(1.2);
 }
 
-.segment-label {
-  position: absolute;
-  bottom: -25px;
-  left: 0;
-  width: 100%;
-  color: #4eb8dd;
-  font-size: 0.8rem;
-  text-transform: uppercase;
-}
-
-.date {
+#date {
   margin-top: 20px;
   color: #4eb8dd;
   font-size: 1.2rem;
